@@ -6,5 +6,21 @@
   {
     "package": "tilt.company.match",
     "url": "https://github.com/2DegreesInvesting/tilt.company.match"
+  },
+  {
+    "package": "tiltToyData",
+    "url": "https://github.com/2DegreesInvesting/tiltToyData"
+  },
+  {
+    "package": "tiltIndicator",
+    "url": "https://github.com/2DegreesInvesting/tiltIndicator"
+  },
+  {
+    "package": "tiltIndicatorAfter",
+    "url": "https://github.com/2DegreesInvesting/tiltIndicatorAfter"
+  },
+  {
+    "package": "tiltWorkflows",
+    "url": "https://github.com/2DegreesInvesting/tiltWorkflows"
   }
 ]
