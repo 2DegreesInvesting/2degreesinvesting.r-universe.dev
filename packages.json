@@ -12,12 +12,12 @@
   {
     "package": "tiltToyData",
     "url": "https://github.com/2DegreesInvesting/tiltToyData",
-    "branch": "main"
+    "branch": "*release"
   },
   {
     "package": "tiltIndicator",
     "url": "https://github.com/2DegreesInvesting/tiltIndicator",
-    "branch": "main"
+    "branch": "*release"
   },
   {
     "package": "tiltIndicatorAfter",
