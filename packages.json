@@ -1,26 +1,32 @@
 [
   {
     "package": "tiltRequirements",
-    "url": "https://github.com/2DegreesInvesting/tiltRequirements"
+    "url": "https://github.com/2DegreesInvesting/tiltRequirements",
+    "branch": "*release"
   },
   {
     "package": "tilt.company.match",
-    "url": "https://github.com/2DegreesInvesting/tilt.company.match"
+    "url": "https://github.com/2DegreesInvesting/tilt.company.match",
+    "branch": "main"
   },
   {
     "package": "tiltToyData",
-    "url": "https://github.com/2DegreesInvesting/tiltToyData"
+    "url": "https://github.com/2DegreesInvesting/tiltToyData",
+    "branch": "main"
   },
   {
     "package": "tiltIndicator",
-    "url": "https://github.com/2DegreesInvesting/tiltIndicator"
+    "url": "https://github.com/2DegreesInvesting/tiltIndicator",
+    "branch": "main"
   },
   {
     "package": "tiltIndicatorAfter",
-    "url": "https://github.com/2DegreesInvesting/tiltIndicatorAfter"
+    "url": "https://github.com/2DegreesInvesting/tiltIndicatorAfter",
+    "branch": "main"
   },
   {
     "package": "tiltWorkflows",
-    "url": "https://github.com/2DegreesInvesting/tiltWorkflows"
+    "url": "https://github.com/2DegreesInvesting/tiltWorkflows",
+    "branch": "main"
   }
 ]
